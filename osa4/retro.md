@@ -1,15 +1,15 @@
-Retrospektiivitekniikat
+Retrospektiivitekniikat  
 
-Start, Stop, Continue, More of, Less of Wheel
+Start, Stop, Continue, More of, Less of Wheel  
 
-Piirretään ympyrä, joka on jaettu viiteen osaan:
-Mitä toimintatapoja kannattaisi ottaa käyttöön (start)
-Mitkä toimintatavat ovat osoittautuneet haitallisiksi (stop)
-Mitkä toimintatavat ovat osoittautuneet hyödyllisiksi (continue)
-Minkälaisia toimintatapoja pitäisi lisätä (more of)
-Minkälaisia toimintatapoja pitäisi vähentää (less of)
+Piirretään ympyrä, joka on jaettu viiteen osaan:  
+Mitä toimintatapoja kannattaisi ottaa käyttöön (start)  
+Mitkä toimintatavat ovat osoittautuneet haitallisiksi (stop)  
+Mitkä toimintatavat ovat osoittautuneet hyödyllisiksi (continue)  
+Minkälaisia toimintatapoja pitäisi lisätä (more of)  
+Minkälaisia toimintatapoja pitäisi vähentää (less of)  
 
-Jokaiseen ympyrän osaan kirjataan osallistujien palautteita, joiden perusteella päätetään jatkotoimenpiteistä. Palaverin kesto pitäisi olla enintään 25 minuuttia.
+Jokaiseen ympyrän osaan kirjataan osallistujien palautteita, joiden perusteella päätetään jatkotoimenpiteistä. Palaverin kesto pitäisi olla enintään 25 minuuttia.  
 
 
 
